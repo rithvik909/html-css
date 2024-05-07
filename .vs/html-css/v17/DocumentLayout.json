@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\HTMLPage1.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTMLPage1.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\signup.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signup.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "signup.html",
-              "DocumentMoniker": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\signup.html",
-              "RelativeDocumentMoniker": "signup.html",
-              "ToolTip": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\signup.html",
-              "RelativeToolTip": "signup.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-07T06:30:00.295Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -48,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HTMLPage1.html",
-              "DocumentMoniker": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\HTMLPage1.html",
-              "RelativeDocumentMoniker": "HTMLPage1.html",
-              "ToolTip": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\HTMLPage1.html",
-              "RelativeToolTip": "HTMLPage1.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Title": "signup.html",
+              "DocumentMoniker": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\signup.html",
+              "RelativeDocumentMoniker": "signup.html",
+              "ToolTip": "C:\\Users\\Rithvik Gudepu\\source\\repos\\html-css\\signup.html",
+              "RelativeToolTip": "signup.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-07T06:46:49.795Z",
+              "WhenOpened": "2024-05-07T06:58:02.187Z",
               "EditorCaption": ""
             }
           ]
